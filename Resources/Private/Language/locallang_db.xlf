@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-01-20T18:23:03Z" product-name="testing">
+		<header/>
+		<body>
+			<trans-unit id="tx_testing_domain_model_order">
+				<source>Order</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_domain_model_order.id">
+				<source>Id</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_domain_model_order.address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_domain_model_order.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_domain_model_order.custname">
+				<source>Custname</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_domain_model_order.dishes">
+				<source>Dishes</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_domain_model_dishes">
+				<source>Dishes</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_domain_model_dishes.id">
+				<source>Id</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_domain_model_dishes.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_domain_model_dishes.type">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_domain_model_dishes.quantity">
+				<source>Quantity</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_information.name">
+				<source>Information</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_information.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_testing_management.name">
+				<source>Management</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_management.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_testing_adminstration.name">
+				<source>Administration</source>
+			</trans-unit>
+			<trans-unit id="tx_testing_adminstration.description">
+				<source></source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
